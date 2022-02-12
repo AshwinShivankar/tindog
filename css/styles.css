@@ -1,0 +1,156 @@
+
+
+#title{
+    background-color: #ff4c68;
+    
+
+}  
+#cta{
+    text-align: center;
+    padding: 7% 15%;
+   
+    background-color: #ff4c68;
+    color: #fff;
+
+}
+.texxt{
+    text-align: center;
+    margin-left: 30px;
+    font-size: 46px;
+    padding-top: 36px;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+h1{
+    font-family: 'Montserrat-black';
+    font-size: 3.5rem;
+    line-height: 1.5;
+    color: white;
+
+    
+}
+.container-fluid{
+    padding: 3% 15%;
+    
+}
+.navbar-nav{
+    margin-left: auto;
+    
+}
+.nav-item{
+    padding: 0px 18px;
+}
+.navbar-brand{
+    font-size: 3.01rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.img{
+    transform: rotate(25deg);
+    position: absolute;
+
+    
+   
+}
+.navbar{
+    padding-bottom:35px;
+}
+.nav-link{
+    font-size: 1.2rem;
+}
+.bttn{
+    margin: 10% 3% 5% 0%;
+}
+.bttnn{
+    margin: 15% 15% 0% -14%;
+    text-align: center;
+    margin-right: -4px;
+    margin-left: 12px;
+}
+
+
+h3{
+    display: inline-block;
+}
+#features{
+    padding: 7% 15%;
+    background-color: white;
+    position: relative;
+   
+    
+}
+.features-box{
+    text-align: center;
+    padding: 5%;
+}
+h3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.5rem;
+}
+
+
+h2{
+    
+    font-size: 3rem;
+    line-height: 1.5;
+
+}
+p{
+    color: #8f8f8f;
+}
+.fa-solid{
+    color: #f87968;
+    padding: 6%;
+}
+.fa-solid:hover{
+    color: #ff4c68;
+}
+#testimonials{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #f87968;
+    color: #fff;
+
+}
+.testimonials-image{
+    width: 10%;
+    border-radius: 100px;
+    margin: 20px;
+}
+#press{
+    background-color: #f87968;
+    margin-bottom: 3%;
+    text-align: center;
+}
+.press-logo{
+    width: 16%;
+    margin: 20px 20px 50px;
+}
+.card-deck{
+    text-align: center;
+    margin: 13% 6% 13% 6%;
+
+
+}
+#footer{
+    text-align: center;
+    padding: 38px 18px 44px 33px;
+}
+.lo{
+    padding: 10px;
+    
+}
+#pricing{
+    text-align: center;
+}
+
+@media (max-width:1020px) {
+
+    h1{
+        text-align: center;
+    }
+
+    .img{
+        position: static;
+        transform: rotate(0);
+    }
+}
